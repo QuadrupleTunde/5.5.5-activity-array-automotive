@@ -82,7 +82,8 @@ class Vehicle {
         } else {
             console.log("Unknown type of vehicle");
         }
-    }
+    } 
+    
 }
 
 //This exports things you want to use from this "module", more info in readme
